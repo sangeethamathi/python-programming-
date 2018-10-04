@@ -5,4 +5,4 @@ else:
  if(check==0):
   print('It is an even number')
 if(check==1):
- print('It is an odd number')https://github.com/sangeethamathi/python-programming-/blob/master/isomorphic.pyhttps://github.com/sangeethamathi/python-programming-/blob/master/isomorphic.py
+ print('It is an odd number')
