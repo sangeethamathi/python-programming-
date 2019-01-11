@@ -1,6 +1,4 @@
 def squares(a, b):
-    lists=[]
-    # Traverse through all numbers
     for i in range (a,b+1):
         j = 1;
         while j*j <= i:
